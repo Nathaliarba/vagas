@@ -1,74 +1,65 @@
-<!-- 
-==================================================
-POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!
 
-Não faça distinção de gênero no título da vaga.
-
-Use: "Front-End Developer" ao invés de 
-"Desenvolvedor Front-End" \o/
-
-Exemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`
-==================================================
--->
+São Paulo Frontend React - Empresa: Printi
 
 ## Descrição da vaga
-
-Projeto bazinga em NodeJS, etc.
+Frontend React 
 
 ## Local
 
-Remoto ou Escritório, São Paulo - Vila Olímpia
+Escritório, São Paulo - Pinheiros 
 
-## Benefícios
+Benefits:
 
-- Plano de saúde
-- Seguro de vida
-- VR de R$ X/dia
-- Auxílio creche
+Competitive salary with periodical performance reviews
+Flexible working hours
+Potential to work home office for a certain number of days per week
+Opportunity to develop a career within a fast-growing company that is part of a large multinational group and with a very strong technical team
+Access to the latest software technologies and cutting-edge tools
+Opportunity to develop some software systems from the ground 
 - ...
+Responsibilities:
 
-#### Diferenciais
+Develop new features for the e-commerce website and other solutions, such as:
+Create new visual component
+Production, modification, and maintenance of websites and web application user interfaces
+Creating tools that enhance how users see and interact with your site in any browser
+Consulting on SEO best practices
+Testing the site during development for usability and fixing any bugs
+Read and understand business and technical specifications to develop appropriate software solutions
+Collaborate with the development team and other areas to enhance the software solutions and user experience
 
-- 2 horas de almoço
-- monte a sua máquina como desejar
-- frigobar sempre cheio :P
-- sala de jogos
-- ...
 
-## Requisitos
+Our Technology Stack (in progress!):
 
-**Obrigatórios:**
-- 3 anos de experiência com Node
-- 2 anos de experiência com mongodb e express
+PHP 7+
+JavaScript (ES2015+)
+Node.js
+React (and Redux)
+REST APIs and GraphQL
+Docker
+AWS platform (EC2, ECS, RDS, S3, SNS, SQS, Lambda, API Gateway, ElastiCache, CloudFront, Route53, ELB/ALB, Auto Scaling, Fargate, DynamoDB)
+Microservices
+Design Systems with Atomic Design
+GIT
+Continuous Integration (with Jenkins)
+Atlassian platform (Jira, BitBucket)
 
-**Desejáveis:**
-- conhecimentos em ruby on rails
-- conhecimentos em C#
 
-**Diferenciais:**
-- projetos opensource
+Requirements:
 
-## Contratação
+Strong knowledge of JavaScript (ES2015+)
+Solid knowledge of React (and Redux)
+HTML5 and CSS
+Webpack automations
+Solid version-control knowledge (GIT), with pull requests and code review.
+Good listening and written English skills
 
-PJ a combinar
 
-## Nossa empresa
+Nice to Have:
 
-Aqui na Corporação ACME somos líderes em...
+Knowledge of Node.js and Server Side Rendering approach
+UX/UI best practices
+Command-line Linux tools and unix server management (SSH, Crontab)
+Continuous integration / delivery
 
-## Como se candidatar
 
-Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
-
-## Labels
-
-- Alocado
-- CLT
-- Estágio
-- Freela
-- Júnior
-- PJ
-- Pleno
-- Remoto - Parcial
-- Remoto - Total
-- Sênior
